@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
 **sourabh199818/sourabh199818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Spring, A.I
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on A.I
+- 💬 Ask me about Everything
+- 📫 How to reach me: Sourabhbisht120@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm   
 
@@ -36,4 +34,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh199818&theme=tokyonight)
 
--->
