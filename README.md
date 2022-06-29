@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Spring, A.I
+- 🔭 I’m currently working on Spring and  A.I
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on A.I
 - 💬 Ask me about Everything
