@@ -3,12 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Spring, API and  A.I
+- 🔭 I’m currently working on Spring, API, and  A.I
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on A.I
 - 💬 Ask me about Everything
-- 📫 How to reach me: Sourabhbisht120@gmail.com
-- ⚡ Fun fact: I have never watched star wars   
+- ⚡ Fun fact: I have never watched Star Wars   
 
 
 
